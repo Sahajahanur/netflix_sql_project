@@ -313,3 +313,10 @@ netflix-sql-analysis/
 ├── dataset/            # Raw CSV data (from Kaggle)
 └── README.md           # Project documentation
 ```
+
+##  📬 Contacts  
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:connectingsrl@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahajahanur-laskar/)
+
+I’m always open to discussing Data Analytics, Machine Learning, Streamlit Apps, and End-to-End Projects! 
